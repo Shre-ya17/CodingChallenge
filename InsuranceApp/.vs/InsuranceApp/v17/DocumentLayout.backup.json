@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\dao\\insuranceserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:dao\\insuranceserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\dao\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:dao\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\entities\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:entities\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\mainmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:mainmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\myexceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:myexceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|c:\\users\\hp\\onedrive\\documents\\github\\codingchallenge\\insuranceapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B8A884B-9EF2-40F7-A868-1ECC7603DDF1}|InsuranceApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Policy.cs",
+              "RelativeDocumentMoniker": "Entities\\Policy.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Policy.cs*",
+              "RelativeToolTip": "Entities\\Policy.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:57:52.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\MainModule\\Program.cs",
+              "RelativeDocumentMoniker": "MainModule\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\MainModule\\Program.cs*",
+              "RelativeToolTip": "MainModule\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:59:35.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Client.cs*",
+              "RelativeToolTip": "Entities\\Client.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:00:43.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Payment.cs",
+              "RelativeToolTip": "Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:01:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\User.cs*",
+              "RelativeToolTip": "Entities\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:00:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Claim.cs",
+              "RelativeDocumentMoniker": "Entities\\Claim.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Entities\\Claim.cs*",
+              "RelativeToolTip": "Entities\\Claim.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:00:54.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\DAO\\IPolicyService.cs",
+              "RelativeDocumentMoniker": "DAO\\IPolicyService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\DAO\\IPolicyService.cs",
+              "RelativeToolTip": "DAO\\IPolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:09:05.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsuranceServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\DAO\\InsuranceServiceImpl.cs",
+              "RelativeDocumentMoniker": "DAO\\InsuranceServiceImpl.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\DAO\\InsuranceServiceImpl.cs",
+              "RelativeToolTip": "DAO\\InsuranceServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:12:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\MyExceptions\\PolicyNotFoundException.cs",
+              "RelativeDocumentMoniker": "MyExceptions\\PolicyNotFoundException.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\MyExceptions\\PolicyNotFoundException.cs",
+              "RelativeToolTip": "MyExceptions\\PolicyNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:17:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Util\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Util\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Util\\DBConnection.cs",
+              "RelativeToolTip": "Util\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:45:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Util\\PropertyUtil.cs",
+              "RelativeDocumentMoniker": "Util\\PropertyUtil.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\Util\\PropertyUtil.cs",
+              "RelativeToolTip": "Util\\PropertyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:16:28.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\CodingChallenge\\InsuranceApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T04:34:56.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
